@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRdJOSgj/loUJbhvcukY1SUKLTg8F+C0p2lMfZcWJb+CVd8P276ZhGMeBlwyl7pU2LE1OQZ4bztUiU2JmU2z/w==",
+  "success": true,
+  "projectFilePath": "/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/PeaksAndValleys.csproj",
+  "expectedPackageFiles": [
+    "/Users/caulinsnarr/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

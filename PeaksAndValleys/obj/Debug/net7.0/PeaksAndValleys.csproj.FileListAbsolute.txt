@@ -1,0 +1,17 @@
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/bin/Debug/net7.0/PeaksAndValleys
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/bin/Debug/net7.0/PeaksAndValleys.deps.json
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/bin/Debug/net7.0/PeaksAndValleys.runtimeconfig.json
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/bin/Debug/net7.0/PeaksAndValleys.dll
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/bin/Debug/net7.0/PeaksAndValleys.pdb
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.csproj.AssemblyReference.cache
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.AssemblyInfoInputs.cache
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.AssemblyInfo.cs
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.csproj.CoreCompileInputs.cache
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.dll
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/refint/PeaksAndValleys.dll
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.pdb
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.genruntimeconfig.cache
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/ref/PeaksAndValleys.dll
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/bin/Debug/net7.0/CsvHelper.dll
+/Users/caulinsnarr/Projects/PeaksAndValleys/PeaksAndValleys/obj/Debug/net7.0/PeaksAndValleys.csproj.CopyComplete
